@@ -1,4 +1,4 @@
-# gnazo_save_manager
+# maristice_app
 ### May 6th 2018
 Save file manager for Maristice
 
