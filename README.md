@@ -7,8 +7,10 @@ Download the latest release from [here](https://github.com/shadax1/maristice_app
 ![demo pic](https://raw.githubusercontent.com/shadax1/maristice_app/master/demo%20pic.png)
 
 ## Save files
-I have included my save files [here](https://github.com/shadax1/maristice_app/releases). You will need a saves folder, which will contain the saves you want to use with the manager, placed inside your game folder.
-To load a save file, you have to suspend the game which will bring you back to the title screen where the Continue option will now be visible, then select a save from the manager and click `Load save`, finally you can select Continue and you will be at the save file's location.
+I have also included my save files [here](https://github.com/shadax1/maristice_app/releases).
+
+In order to use them, you will need a `saves` folder, which will contain the saves you want to use with the manager, placed inside your game folder.
+To load a save file, you have to suspend the game which will bring you back to the title screen where the `Continue` option will now be visible, then select a save from the manager and click `Load save`, finally you can select `Continue` and you will be at the save file's location.
 
 ## Memory addresses used
 This manager also allows giving yourself lives and potions.
